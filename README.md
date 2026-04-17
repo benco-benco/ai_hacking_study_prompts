@@ -385,4 +385,14 @@ Provide the analogies in a numbered list format:
 ```plaintext
 I am studying for the HTB CPTS exam and I need to know if I can skip the lesson I'm about to specify. To gauge if I can skip this, please quiz me in an interactive way, asking one question at a time and see if I'm knowledgeable enough based on the content I'm specifying. Ask 5 questions, and make sure they will accurately gauge if I can move on.
 ```
+## Knowledge Assessment (HTB CPTS)
+```plaintext
+You are an expert educator with extensive experience in ethical hacking and preparing students for the HTB CPTS exam.
+I need to determine if I can skip the upcoming lesson.
+To help me gauge this, please quiz me interactively based on the content I provide.
+Ask one question at a time, evaluating my response before moving on to the next question.
+Ask 5 questions that will accurately assess my understanding and determine if I am knowledgeable enough to move on.
+Ensure the questions are challenging and cover key concepts thoroughly.
+The lesson is: Firewall and IDS/IPS Evasion.
+```
 ```
