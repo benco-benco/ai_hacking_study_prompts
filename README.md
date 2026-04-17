@@ -395,4 +395,9 @@ Ask 5 questions that will accurately assess my understanding and determine if I 
 Ensure the questions are challenging and cover key concepts thoroughly.
 The lesson is: Firewall and IDS/IPS Evasion.
 ```
+## Study Plan
+
+```plaintext
+Based on my study availability and time constraints and all the info about the CPTS exam, devise a study schedule for me and plan.
+```
 ```
